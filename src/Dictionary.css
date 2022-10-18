@@ -1,0 +1,29 @@
+.Dictionary h1 {
+    font-size: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-family: 'Rampart One', cursive;
+    font-weight: bold;
+  }
+  
+  .Dictionary section {
+    background-color: white;
+    padding: 30px;
+    margin: 20px 0;
+    border-radius: 15px;
+    box-shadow: 0 8px 10px rgba(0 0 0 / 10%);
+  }
+  
+  .Dictionary input {
+    width: 100%;
+    padding: 6px 10px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+  }
+  
+  .Dictionary .hint {
+    font-size: 15px;
+    margin: 5px 8px;
+    color: grey;
+    font-style: italic;
+  }
